@@ -131,7 +131,7 @@ main {
 }
 
 .about-section h1 {
-  color: #8c0606;
+  color: #881CA6;
   margin-bottom: 1.2rem;
   font-size: 2.4rem;
 }
@@ -148,7 +148,7 @@ main {
 
 .about-landing .section-title {
   font-size: 2.8rem;
-  color: #8c0606;
+  color: #881CA6;
   margin-bottom: 1.5rem;
   letter-spacing: 1px;
 }
@@ -161,7 +161,7 @@ main {
 }
 
 .about-landing strong {
-  color: #8c0606;
+  color: #881CA6;
 }
 
 .about-landing em {
@@ -211,7 +211,7 @@ main {
 }
 
 .social-links a:hover {
-  color: #8c0606;
+  color: #881CA6;
 }
 
 
@@ -252,13 +252,13 @@ main {
   height: 320px;
   object-fit: cover;
   border-radius: 50%;
-  border: 1px solid #8c0606;
+  border: 1px solid #881CA6;
   margin-bottom: 0.8rem;
 }
 
 .member-card h3 {
   font-size: 1rem;
-  color: #8c0606;
+  color: #881CA6;
   margin: 0;
 }
 
@@ -271,7 +271,7 @@ main {
 
 .epk-section h1 {
   text-align: center;
-  color: #8c0606;
+  color: #881CA6;
   margin-bottom: 2rem;
 }
 
@@ -284,13 +284,13 @@ main {
   margin-top: 1.7rem;
   margin-bottom: 0.7rem;
   font-size: 1.3rem;
-  border-left: 5px solid #8c0606;
+  border-left: 5px solid #881CA6;
   padding-left: 0.6rem;
 }
 
 .epk-section h3 {
   margin: 0.7rem 0 0.3rem 0;
-  color: #8c0606;
+  color: #881CA6;
   font-size: 1.1rem;
 }
 
@@ -307,7 +307,7 @@ main {
 
 .stream-links a {
   color: #fff;
-  background: #8c0606;
+  background: #881CA6;
   padding: 0.4rem 1.1rem;
   border-radius: 8px;
   text-decoration: none;
@@ -352,13 +352,13 @@ main {
   max-height: 420px;
   object-fit: cover;
   border-radius: 12px;
-  border: 3px solid #8c0606;
+  border: 3px solid #881CA6;
   transition: box-shadow 0.2s;
   box-shadow: 0 2px 10px rgba(0,0,0,0.15);
 }
 
 .epk-photos a:hover img {
-  box-shadow: 0 4px 22px #8c0606;
+  box-shadow: 0 4px 22px #881CA6;
 }
 
 
